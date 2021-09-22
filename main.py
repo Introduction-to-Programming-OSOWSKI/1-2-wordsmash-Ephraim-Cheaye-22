@@ -1,3 +1,5 @@
 #WRITE YOUR CODE HERE
-def wordsmash
-print(wordsmash)
+def wordSmash(a, b):
+    print(a + b)
+
+wordSmash("Cat", "Dog")
